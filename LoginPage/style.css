@@ -1,0 +1,115 @@
+﻿body {
+    margin: 0;
+    padding: 0;
+    background-color: #f3f3f4;
+}
+section{
+    margin-top:5%;
+    width:100%;
+    height:100%;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+}
+.intro {
+    width: 100%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+    .intro p {
+        font-family: 'Segeo UI',Tahoma, Verdana, Geneva, Tahoma, sans-serif, Verdana, sans-serif;
+        font-weight: bold;
+        color: #5b5b5b;
+    }
+.intro2 {
+    width: 70%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+    .intro2 p {
+        font-family: 'Segeo UI',Tahoma, Verdana, Geneva, Tahoma, sans-serif, Verdana, sans-serif;
+        padding-left: 32vw;
+        text-align: center;
+        color: #898989;
+    }
+.intro3 {
+    width: 70%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+    .intro3 p {
+        font-family: 'Segeo UI',Tahoma, Verdana, Geneva, Tahoma, sans-serif, Verdana, sans-serif;
+        padding-left: 32vw;
+        text-align: center;
+        color: #898989;
+    }
+section img{
+    width: 300px;
+    height:250px;
+}
+.content h2{
+    font-family:'Segeo UI',Tahoma, Verdana, Geneva, Tahoma, sans-serif, Verdana, sans-serif;
+    padding-left: 46vw;
+}
+.content input[type=text]{
+    height:30px;
+    border: 0;
+    margin-top: 2.5vh;
+    margin-left: 44vw;
+    border-radius: 3px;
+}
+.content input[type=submit] {
+    color: white;
+    margin-left: 44vw;
+    margin-top: 2vh;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 4px;
+    border: 1px solid;
+    background-color: #1cb494;
+    width:166px;
+}
+
+.content input[placeholder] {
+    font-family: "Trebuchet MS", "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", Tahoma, sans-serif;
+    padding-left: 1vw;
+    font-size: 13px;
+}
+.content2 input[type=submit] {
+    color: #5b5b5b;
+    margin-left: 44vw;
+    margin-top: 2vh;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-left: 15px;
+    padding-right: 15px;
+    border-radius: 4px;
+    border: 1px solid white;
+    background-color: white;
+    width: 166px;
+}
+.intro4 {
+    width: 70%;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+    .intro4 p {
+        font-family: 'Segeo UI',Tahoma, Verdana, Geneva, Tahoma, sans-serif, Verdana, sans-serif;
+        padding-left: 32vw;
+        text-align: center;
+        color: blue;
+        font-size:13px;
+    }
+
